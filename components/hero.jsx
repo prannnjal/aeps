@@ -8,7 +8,7 @@ export default function Hero() {
 
   const slides = [
     {
-      title: "Welcome to AEON School",
+      title: "Welcome to AEON Public School",
       subtitle: "Where Learning Becomes an Adventure! 🎨✨",
       cta: "Explore Now",
       gradient: "from-orange-400 via-pink-400 to-red-400",

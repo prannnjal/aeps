@@ -54,7 +54,7 @@ export default function About() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold bg-clip-text text-transparent mb-4" style={{ background: 'linear-gradient(to right, rgb(220, 154, 37), rgb(236, 72, 153), rgb(56, 189, 248))', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
-            Why Choose AEON School?
+            Why Choose AEON Public School?
           </h2>
           <p className="text-lg text-gray-700 max-w-2xl mx-auto font-semibold">
             We make learning fun, safe, and enriching for every child

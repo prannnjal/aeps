@@ -34,7 +34,7 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-3">
             <img 
               src="/abs/logo.png" 
-              alt="AEON School Logo" 
+              alt="AEON Public School Logo" 
               className="h-14 w-auto object-contain"
             />
             <div>

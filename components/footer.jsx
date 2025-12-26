@@ -26,7 +26,7 @@ export default function Footer() {
           <div className="flex justify-center mb-8">
             <img 
               src="/abs/logo.png" 
-              alt="AEON School Logo" 
+              alt="AEON Public School Logo" 
               className="h-16 w-auto object-contain"
             />
           </div>
@@ -50,7 +50,7 @@ export default function Footer() {
             <div className="flex items-center gap-2 mb-4">
               <img 
                 src="/abs/logo.png" 
-                alt="AEON School Logo" 
+                alt="AEON Public School Logo" 
                 className="h-12 w-auto object-contain"
               />
               <h3 className="text-2xl font-bold">AEON</h3>
