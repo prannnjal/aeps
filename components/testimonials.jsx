@@ -1,14 +1,14 @@
 export default function Testimonials() {
   const testimonials = [
     {
-      name: "Parents of Arya Das",
+      name: "Parents of Aryan Das",
       content:
         "The school is an excellent endeavour. It is well planned and they have a good balance between academics and extra curricular activities. The teachers are well trained and extremely approachable. A little far from my home but still manageable.",
       initials: "AD",
       childInfo: "Standard 3",
     },
     {
-      name: "Parents of Sagnik Naity",
+      name: "Parents of Sagnik Maity",
       content:
         "It has been a wonderful day with kids performing the cultures of different states of India. My son represented India beautifully. Overall it was a great experience with outstanding event management!",
       initials: "SN",

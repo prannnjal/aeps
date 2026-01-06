@@ -32,26 +32,26 @@ export default function Teachers() {
     },
     {
       name: "Mangal Maity",
-      role: "Teacher",
+      role: "Sports Teacher",
       specialty: "Sports & PE",
     },
     {
       name: "Pallabi Das",
-      role: "Teacher",
+      role: "Asst.Teacher",
       specialty: "Arts & Expression",
     },
     {
       name: "Shilpa Mandal",
-      role: "Teacher",
+      role: "Asst.Teacher",
       specialty: "Arts & Expression",
     },
     {
-      name: "Januka Das Paul",
-      role: "DanceTeacher",
+      name: "Tanuka Das Paul",
+      role: "Dance Teacher",
       specialty: "Arts & Expression",
     },
     {
-      name: "Sabila Garjish",
+      name: "Sabila Jarjish",
       role: "Asst.Teacher",
       specialty: "Arts & Expression",
     },
@@ -66,7 +66,7 @@ export default function Teachers() {
       specialty: "Arts & Expression",
     },
     {
-      name: "Somashree Sahoo",
+      name: "Somasree Sahoo",
       role: "Astt.Teacher",
       specialty: "Arts & Expression",
     },
@@ -91,7 +91,7 @@ export default function Teachers() {
       specialty: "Arts & Expression",
     },
     {
-      name: "Arjit Maity",
+      name: "Arijit Maity",
       role: "Asst.Teacher",
       specialty: "Arts & Expression",
     },
@@ -102,7 +102,7 @@ export default function Teachers() {
     },
     {
       name: "Sajal Pradhan",
-      role: "Asst.Teacher",
+      role: "Drawing Teacher",
       specialty: "Arts & Expression",
     },
     {
@@ -111,7 +111,7 @@ export default function Teachers() {
       specialty: "Arts & Expression",
     },
     {
-      name: "Madhunuita Maity",
+      name: "Madhumita Maity",
       role: "Asst.Teacher",
       specialty: "Arts & Expression",
     },
