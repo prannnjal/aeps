@@ -87,6 +87,14 @@ export default function Header() {
             >
               Enroll Now
             </Link>
+            <a 
+              href="https://octopod.co.in/student/admission/b6a895d7cb10f3166208e55d783c36d7"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-blue-600 text-white px-6 py-2 rounded-full font-bold hover:shadow-lg transition-all duration-300 ml-2 hover:scale-105"
+            >
+              Fees Payment
+            </a>
           </nav>
 
           {/* Mobile menu button */}
@@ -147,6 +155,14 @@ export default function Header() {
             >
               Enroll Now
             </Link>
+            <a 
+              href="https://octopod.co.in/student/admission/b6a895d7cb10f3166208e55d783c36d7"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-blue-600 text-white px-6 py-2 rounded-full font-bold hover:shadow-lg transition-all mx-4 text-center"
+            >
+              Fees Payment
+            </a>
           </nav>
         )}
       </div>
